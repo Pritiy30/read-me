@@ -1,5 +1,5 @@
 # read-me
-contactbook
+floating bubbles
 //package chapter05;
 
 import java.awt.*;
